@@ -54,7 +54,7 @@ An award-winning fraud detection platform for online merchants and the payments 
 **Global University Systems** (2014 - 2015)   
 *Sales Executive*  
 
-**Buzz Retail Limited** (Nov 2013 – Jun 2014)
+**Buzz Retail Limited** (Nov 2013 – Jun 2014)   
 *Sales Executive*
 
 **Fluence Corporation (previously Nirosoft Industries Ltd)** (Dec 2010 – Aug 2012)
