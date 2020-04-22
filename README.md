@@ -2,7 +2,7 @@
 
 A Full Stack Junior Developer, currently looking for a role where I can continue to build my programming skills.
 
-My background combines both analytical and business development skills. I'm a Biotechnology Engineer with experience in Water Treatment. After moving to the UK 7 years ago I've made a career transition and worked as a sales proffessional for different tech and software companies. Recently decided that I want to go back to what I love the most, which is building things and be part of the creation. Coding was something that I always wanted to learn and being surrounded by developers in my previous job I felt very inspired and decided to join the intensive Makers coding bootcamp.
+My background combines both analytical and business development skills. I'm a Biotechnology Engineer with experience in Water Treatment. After moving to the UK 7 years ago I've made a career transition and worked as a sales proffessional for different tech and software companies. Recently decided that I want to go back to what I love the most, which is building things and be part of the creation. Coding was something I always wanted to learn and being surrounded by developers in my previous job I felt very inspired and decided to join the intensive Makers coding bootcamp.
 
 Since January 2020, I have been studying at Makers Academy, where I have been learning fundamentals of software development. I've also learned good coding practices and gained pairing and team work experience.
 
@@ -16,15 +16,7 @@ I have the ability and discipline to learn a new subject by myself. When joining
 
 #### Analytical thinker 
 
-As a Process Engineer at Fluence Corporation (previously Nirosoft Industries Ltd), I developed complex water treatment processes and optimized processes efficiency to allow sufficient quality of product water. My main achievement was designing a water treatment plant for a paper manufacturing factory in Chile, with a capacity of 165m3/hour at the total value of US$1.15M. 
-
-## Projects
-
-| Project | Description | Technologies |
-| --- | --- | --- |
-| Wanderlist | A Google maps API based app. Share urban routes with your family and friends and look up routes that were suggested by others | Ruby, Rails, JavaScripts, HTML, CSS and Bootstrap. |
-| AceBook | A clone of Facebook. Add, edit and delete posts, upload photos to an album and set up your profile picture. | Frontend: HTML & CSS and Bootstrap. Backend: Ruby, Rails and PostgreSQL. Testing: Capybara and RSpec. Travis and CodeClimate for continuous integration. Hosted on Heroku, see website here: https://wanderlist-makers.herokuapp.com/.
-| MakersBnB | A web application that allows users to list spaces and their availability, and to book spaces for the night. | Javascript, Ruby, RSpec, Jasmine, Capybara, Sinatra, ActiveRecord, SQL, HTML, CSS, RuboCop |
+As a Process Engineer at Fluence Corporation (previously Nirosoft Industries Ltd), I developed complex water treatment processes and optimized their efficiency to allow sufficient quality of product water. My main achievement was designing a water treatment plant for a paper manufacturing factory in Chile, with a capacity of 165m3/hour at the total value of US$1.15M. 
 
 ## Education
 
@@ -35,6 +27,14 @@ A 12-week intensive development bootcamp, focusing on:
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 - Pair programming
+
+## Projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [Wanderlist](https://github.com/Dlibmanw/Wanderlist) | A Google maps API based app. Share urban routes with your family and friends and look up routes that were suggested by others. Hosted on Heroku, see website [here](https://wanderlist-makers.herokuapp.com/) | Ruby, Rails, JavaScripts, HTML, CSS and Bootstrap. |
+| [AceBook](https://github.com/Dlibmanw/aceBook-PingPong) | A clone of Facebook. Add, edit and delete posts, upload photos to an album and set up your profile picture. | Frontend: HTML & CSS and Bootstrap. Backend: Ruby, Rails and PostgreSQL. Testing: Capybara and RSpec. Travis and CodeClimate for continuous integration. 
+| [MakersBnB](https://github.com/Dlibmanw/MakersBnB) | A web application that allows users to list spaces and their availability, and to book spaces for the night. | Javascript, Ruby, RSpec, Jasmine, Capybara, Sinatra, ActiveRecord, SQL, HTML, CSS, RuboCop |
 
 #### Ort Braude college, B.Sc Biotechnology Engineering Israel (2005 to 2009)
 
