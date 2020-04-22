@@ -57,7 +57,7 @@ An award-winning fraud detection platform for online merchants and the payments 
 **Buzz Retail Limited** (Nov 2013 – Jun 2014)   
 *Sales Executive*
 
-**Fluence Corporation (previously Nirosoft Industries Ltd)** (Dec 2010 – Aug 2012)
+**Fluence Corporation (previously Nirosoft Industries Ltd)** (Dec 2010 – Aug 2012)   
 *Process Engineer*
 - Developed complex water treatment processes.
 - Created detailed piping and instrument diagrams and communicated with the manufacturing division to enable smooth construction of plants.
