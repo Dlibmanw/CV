@@ -32,7 +32,7 @@ A 12-week intensive development bootcamp, focusing on:
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [Wanderlist](https://github.com/Dlibmanw/Wanderlist) | A Google maps API based app. Share urban routes with your family and friends and look up routes that were suggested by others. Hosted on Heroku, see website [here](https://wanderlist-makers.herokuapp.com/) | Ruby, Rails, JavaScripts, HTML, CSS and Bootstrap. |
+| [Wanderlist](https://github.com/Dlibmanw/Wanderlist) | A Google maps based app. Share urban routes with your family and friends and look up routes suggested by others. Hosted on Heroku, see live website [here](https://wanderlist-makers.herokuapp.com/) | Ruby, Rails, JavaScripts, HTML, CSS and Bootstrap. |
 | [AceBook](https://github.com/Dlibmanw/aceBook-PingPong) | A clone of Facebook. Add, edit and delete posts, upload photos to an album and set up your profile picture. | Frontend: HTML & CSS and Bootstrap. Backend: Ruby, Rails and PostgreSQL. Testing: Capybara and RSpec. Travis and CodeClimate for continuous integration. 
 | [MakersBnB](https://github.com/Dlibmanw/MakersBnB) | A web application that allows users to list spaces and their availability, and to book spaces for the night. | Javascript, Ruby, RSpec, Jasmine, Capybara, Sinatra, ActiveRecord, SQL, HTML, CSS, RuboCop |
 
@@ -59,11 +59,10 @@ An award-winning fraud detection platform for online merchants and the payments 
 *Process Engineer*
 - Developed complex water treatment processes.
 - Created detailed piping and instrument diagrams and communicated with the manufacturing division to enable smooth construction of plants.
-- Defined systems logic of operation as a base for systems' software engineering. Cooperated with engineering department in order to create an easy to use system.
+- Defined systems logic of operation as a base for systems' software engineering. Cooperated with software engineers in order to create an easy to use system.
 
 ## Hobbies
-- Sketching and drawings 
-- Traveling and Hiking - Visiting new cultures, mountain hikes around the world
-- Playing the piano (not brilliantly but I enjoy it a lot!)
+- Drawings 
+- Traveling and Hiking - Visiting new cultures, discovering the local food, mountain hikes around the world
+- Playing the piano
 - Running 
-
