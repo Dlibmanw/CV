@@ -18,6 +18,14 @@ I have the ability and discipline to learn a new subject by myself. When joining
 
 As a Process Engineer at Fluence Corporation (previously Nirosoft Industries Ltd), I developed complex water treatment processes and optimized processes efficiency to allow sufficient quality of product water. My main achievement was designing a water treatment plant for a paper manufacturing factory in Chile, with a capacity of 165m3/hour at the total value of US$1.15M. 
 
+## Projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| Wanderlist | A Google maps API based app. Share urban routes with your family and friends and look up routes that were suggested by others | Ruby, Rails, JavaScripts, HTML, CSS and Bootstrap. |
+| AceBook | A clone of Facebook. Add, edit and delete posts, upload photos to an album and set up your profile picture. | Frontend: HTML & CSS and Bootstrap. Backend: Ruby, Rails and PostgreSQL. Testing: Capybara and RSpec. Travis and CodeClimate for continuous integration. Hosted on Heroku, see website here: https://wanderlist-makers.herokuapp.com/.
+| MakersBnB | A web application that allows users to list spaces and their availability, and to book spaces for the night. | Javascript, Ruby, RSpec, Jasmine, Capybara, Sinatra, ActiveRecord, SQL, HTML, CSS, RuboCop |
+
 ## Education
 
 #### Makers Academy (January 2020 to April 2020)
