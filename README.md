@@ -1,22 +1,21 @@
 ## Dafna Libman
 
-I am an energetic and ambitious Full Stack Junior Developer, currently looking for a role where I can continue to build my programming skills.
+A Full Stack Junior Developer, currently looking for a role where I can continue to build my programming skills.
+My background combines both analytical and business development skills. I'm a Biotechnology Engineer with experience in Water Treatment. After moving to the UK 7 years ago I've made a career transition and worked as a sales proffessional for different tech and software companies. Recently decided that I want to go back to what I love the most, which is building things and be part of the creation. Coding was something that I always wanted to learn and being surrounded by developers in my previous job I felt very inspired and decided to join the intensive Makers coding bootcamp.
 
-I'm a Biotechnology Engineer with experience in Water Treatment. After moving to the UK 7 years ago I've made a career transition and worked in Sales for different tech and software companies. Recently it became clear to me that it's time to go back to the roots and do something that is more technology focused. Coding was something that I always wanted to learn and being surrounded by developers in my previous job I was very inspired and decided to join the intensive 12 weeks Makers bootcamp.
+Since January 2020, I have been studying at Makers Academy, where I have been learning fundamentals of software development. I've also learned good coding practices and gained pairing and team work experience.
 
-Since January 2020, I have been studying at Makers Academy, where I have been learning fundamentals of software development. I've also learned good coding practices and the gained pairing and team work experiences.
-
-I believe the combination between the skills I've gained at Makers and my communication skills gained while working as a sales professional, will allow me to add value to my next employer quickly. 
+I believe the combination between the skills I've gained at Makers and the communication skills gained while working as a sales professional, will allow me to add value to my next employer quickly. 
 
 ## Skills
 
-#### Fast learner 
+#### Self starter 
 
-I am a self starter that have the ability and discipline to learn a new subject by myself. When joining Ravelin, my previous employer I didn't get much training as both the company and the team were very small and still at the stage of building internal processes. I've managed to study about our product quickly to the level where I could have a conversation with prospect clients about the company's machine learning based product, which enabled me to constantly exceed my monthly sales targets.
+I have the ability and discipline to learn a new subject by myself. When joining Ravelin, my previous employer, I didn't get much training as both the company and the team were small and still at the stage of building internal processes. I've managed to study about our product quickly and within couple of weeks I was able to have meaningful conversations with prospect clients about the company's machine learning based solution. Through continues learning as well using the trial and error approach, I was able to improve my sales process and constantly exceed my monthly sales targets.
 
 #### Analytical thinker 
 
-As a Process Engineer at Nirosoft, I developed complex water treatment processes, optimized processes efficiency under clients' requirement. My main achievement was designing a water treatment plant for a paper manufacturing factory in Chile, with a capacity of 165m3/hour at the total value of US$1.15M.
+As a Process Engineer at Fluence Corporation (previously Nirosoft Industries Ltd), I developed complex water treatment processes and optimized processes efficiency to allow sufficient quality of product water. My main achievement was designing a water treatment plant for a paper manufacturing factory in Chile, with a capacity of 165m3/hour at the total value of US$1.15M. 
 
 ## Education
 
@@ -32,20 +31,23 @@ A 12-week intensive development bootcamp, focusing on:
 
 Learnt how to integrate engineering principles and biological knowledge to develop products in the field of environmental engineering.
 
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Ravelin** (November 2017 to November 2019)    
+*Sales Manager*  
+An award-winning fraud detection and prevention platform for online merchants and the payments industry. Ravelin uses a combination of machine learning, graph networks and human insights to detect fraud before the sale happens.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Microsoft (N3)** (Apr 2016 – Nov 2017)   
+*Account Manager*  
+
+**Global University Systems** (2014 - 2015)   
+*Sales Executive*  
+
+**Buzz Retail Limited** (Nov 2013 – Jun 2014)
+*Sales Executive*
+
+**Fluence Corporation (previously Nirosoft Industries Ltd)** (Dec 2010 – Aug 2012)
+*Process Engineer*
 
 ## Hobbies
 
