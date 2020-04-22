@@ -1,6 +1,7 @@
 ## Dafna Libman
 
 A Full Stack Junior Developer, currently looking for a role where I can continue to build my programming skills.
+
 My background combines both analytical and business development skills. I'm a Biotechnology Engineer with experience in Water Treatment. After moving to the UK 7 years ago I've made a career transition and worked as a sales proffessional for different tech and software companies. Recently decided that I want to go back to what I love the most, which is building things and be part of the creation. Coding was something that I always wanted to learn and being surrounded by developers in my previous job I felt very inspired and decided to join the intensive Makers coding bootcamp.
 
 Since January 2020, I have been studying at Makers Academy, where I have been learning fundamentals of software development. I've also learned good coding practices and gained pairing and team work experience.
@@ -35,7 +36,7 @@ Learnt how to integrate engineering principles and biological knowledge to devel
 
 **Ravelin** (November 2017 to November 2019)    
 *Sales Manager*  
-An award-winning fraud detection and prevention platform for online merchants and the payments industry. Ravelin uses a combination of machine learning, graph networks and human insights to detect fraud before the sale happens.
+An award-winning fraud detection platform for online merchants and the payments industry. Ravelin uses a combination of machine learning, graph networks and human insights to detect fraud before the sale happens.
 
 **Microsoft (N3)** (Apr 2016 – Nov 2017)   
 *Account Manager*  
@@ -48,8 +49,13 @@ An award-winning fraud detection and prevention platform for online merchants an
 
 **Fluence Corporation (previously Nirosoft Industries Ltd)** (Dec 2010 – Aug 2012)
 *Process Engineer*
+- Developed complex water treatment processes.
+- Created detailed piping and instrument diagrams and communicated with the manufacturing division to enable smooth construction of plants.
+- Defined systems logic of operation as a base for systems' software engineering. Cooperated with engineering department in order to create an easy to use system.
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Sketching and drawings 
+- Traveling and Hiking - Visiting new cultures, mountain hikes around the world
+- Playing the piano (not brilliantly but I enjoy it a lot!)
+- Running 
 
