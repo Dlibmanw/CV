@@ -62,7 +62,7 @@ An award-winning fraud detection platform for online merchants and the payments 
 - Defined systems logic of operation as a base for systems' software engineering. Cooperated with software engineers in order to create an easy to use system.
 
 ## Hobbies
-- Drawings 
-- Traveling and Hiking - Visiting new cultures, discovering the local food, mountain hikes around the world
-- Playing the piano
-- Running 
+- Drawings :woman_artist:
+- Traveling and Hiking - Visiting new cultures, discovering the local food, mountain hikes around the world :airplane:
+- Playing the piano :notes:
+- Running :running_woman:
