@@ -4,17 +4,17 @@
 
 A Full Stack Junior Developer, currently looking for a role where I can continue to build my programming skills.
 
-My background combines both analytical and business development skills. I'm a Biotechnology Engineer with experience in Water Treatment. After moving to the UK 7 years ago I've made a career transition and worked as a sales professional for different tech and software companies. Recently decided that I want to go back to what I love the most, which is building things and be part of the creation. Coding was something I always wanted to learn and being surrounded by developers in my previous job I felt very inspired and decided to join the intensive Makers coding bootcamp.
+My background combines both analytical and business development skills. I'm a Biotechnology Engineer with experience in Water Treatment. After moving to the UK 7 years ago I've made a career transition and worked as a sales professional for different tech and software companies. Recently decided that I want to go back to what I love the most, which is building things and be part of the creative process. Coding was something I always wanted to learn and being surrounded by developers in my previous job I felt very inspired and decided to join a coding bootcamp.
 
-Since January 2020, I have been studying at Makers Academy, where I have been learning fundamentals of software development. I've also learned good coding practices and gained pairing and team work experience.
+I've recently graduated from Makers Academy, a 12-week coding bootcamp, where I have been learning the fundamentals of software development. I've learned a lot about the importance of best coding practices and teamwork. I’ve gained lots of experience at Test Driven Development, pair programming, and using Git version control while working on group projects
 
-I believe the combination between the skills I've gained at Makers and the communication skills gained while working as a sales professional, will allow me to add value to my next employer quickly. 
+I believe the combination between the skills I've gained at Makers and the communication and client facing skills gained while working as a sales professional, will allow me to add value to my next employer quickly. 
 
 ## Skills
 
 #### Self starter 
 
-I have the ability and discipline to learn a new subject by myself. When joining Ravelin, my previous employer, I didn't get much training as both the company and the team were small and still at the stage of building internal processes. I've managed to study about our product quickly and within couple of weeks I was able to have meaningful conversations with prospect clients about the company's machine learning based solution. Through continues learning as well using the trial and error approach, I was able to improve my sales process and constantly exceed my monthly sales targets.
+I have the ability and discipline to independently learn a new subject. When joining Ravelin, my previous employer, I didn't get much training as both the company and the team were small and still at the stage of building internal processes. I've managed to study about our product quickly and within couple of weeks I was able to have meaningful conversations with prospect clients about the company's machine learning based solution. Through continues learning as well using the trial and error approach, I was able to improve my sales process and constantly exceed my monthly sales targets.
 
 #### Analytical thinker 
 
@@ -25,10 +25,11 @@ As a Process Engineer at Fluence Corporation (previously Nirosoft Industries Ltd
 #### Makers Academy (January 2020 to April 2020)
 
 A 12-week intensive development bootcamp, focusing on:
-- Object Oriented Programming, Test Driven Development, MVC
+- Object Oriented Programming, Test Driven Development
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 - Pair programming
+- Git version control 
 
 ## Projects
 
